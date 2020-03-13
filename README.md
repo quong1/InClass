@@ -7,7 +7,7 @@ Install these prerequisites:
 - Truffle: https://github.com/trufflesuite/truffle
 
 ## Step 1: Clone the project
-
+https://github.com/quong1/InClass.git
 ## Step 2: install dependencies
 On the root folder:
 ```
