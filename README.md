@@ -1,4 +1,4 @@
-# InClass HelloWorld
+# InClassHelloWorld
 Creating Hello World smart contract using truffle and solidity.
 
 ## Dependencies
