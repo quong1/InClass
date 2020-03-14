@@ -17,4 +17,5 @@ $ npm install
 ```
 truffle compile 
 truffle develop migrate --reset
+truffle develop
 ```
